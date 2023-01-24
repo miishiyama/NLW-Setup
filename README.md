@@ -57,7 +57,7 @@ As tecnologias utilizadas neste projeto são:
 - Babel
 - Types
 - React Native SVG Transformer
-- Tailwindcss
+- TailwindCSS
 - Radix UI
 - Phosphor React
 - Vite
