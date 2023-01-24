@@ -10,9 +10,15 @@ Siga esses passos para instalar o repositório na sua máquina:
 
 ### Server
 1. Rode `npm i` para instalar as dependências do projeto.
-2. Rode `npx prisma migrate dev` para migrar o esquema de banco de dados.
-3. Rode `npx prisma db seed` para criação dos dados da tabela.
-4. Rode `npm run dev` para iniciar o servidor de desenvolvimento.
+2. Crie um arquivo `.env` em `NLW-Setup/server/prisma/.env` e adicione o seguinte código:
+
+```bash
+DATABASE_URL="file:./dev.db"
+```
+
+3. Rode `npx prisma migrate dev` para migrar o esquema de banco de dados.
+4. Rode `npx prisma db seed` para criação dos dados da tabela.
+5. Rode `npm run dev` para iniciar o servidor de desenvolvimento.
 
 ### Web
 1. Rode `npm i` para instalar as dependências do projeto.
