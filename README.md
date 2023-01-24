@@ -1,5 +1,15 @@
 # NLW-Setup
 
+<p align="center">
+  Preview:
+    &nbsp;&nbsp;&nbsp;
+  <a href="./preview/Mobile">Mobile</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Web">Web</a>
+</p>
+
+![preview](./preview/Web/NLW-Setup.png)
+
 ## Projeto 💻
 Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Ignite. <br>
 (https://www.figma.com/file/zeRR5lW6wiCFV5b8OK9HVb/Habits-(i)-(Community)?t=NasLwTkifj35CFtz-6)
