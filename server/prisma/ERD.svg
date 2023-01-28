@@ -8,25 +8,29 @@
     id="mermaid-0"
 >
     <style>
-        #mermaid-0{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}
-        #mermaid-0 .error-icon{fill:#552222;}
-        #mermaid-0 .error-text{fill:#552222;stroke:#552222;}
-        #mermaid-0 .edge-thickness-normal{stroke-width:2px;}
-        #mermaid-0 .edge-thickness-thick{stroke-width:3.5px;}
-        #mermaid-0 .edge-pattern-solid{stroke-dasharray:0;}
-        #mermaid-0 .edge-pattern-dashed{stroke-dasharray:3;}
-        #mermaid-0 .edge-pattern-dotted{stroke-dasharray:2;}
-        #mermaid-0 .marker{fill:#000000;stroke:#000000;}
-        #mermaid-0 .marker.cross{stroke:#000000;}
-        #mermaid-0 svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}
-        #mermaid-0 .entityBox{fill:#cde498;stroke:#13540c;}
-        #mermaid-0 .attributeBoxOdd{fill:#ffffff;stroke:#13540c;}
-        #mermaid-0 .attributeBoxEven{fill:#f2f2f2;stroke:#13540c;}
-        #mermaid-0 .relationshipLabelBox{fill:hsl(78.1578947368, 58.4615384615%, 84.5098039216%);opacity:0.7;background-color:hsl(78.1578947368, 58.4615384615%, 84.5098039216%);}
-        #mermaid-0 .relationshipLabelBox rect{opacity:0.5;}
-        #mermaid-0 .relationshipLine{stroke:#000000;}
-        #mermaid-0 .entityTitleText{text-anchor:middle;font-size:18px;fill:#000000;}
-        #mermaid-0 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}
+        #mermaid-0 { font-family: "trebuchet ms", verdana,arial, sans-serif; font-size: 16px; fill: #000000 }
+        #mermaid-0 .error-icon { fill: #552222 }
+        #mermaid-0 .error-text { fill: #552222; stroke: #552222 }
+        #mermaid-0 .edge-thickness-normal { stroke-width: 2px }
+        #mermaid-0 .edge-thickness-thick { stroke-width: 3.5px }
+        #mermaid-0 .edge-pattern-solid { stroke-dasharray: 0 }
+        #mermaid-0 .edge-pattern-dashed { stroke-dasharray: 3 }
+        #mermaid-0 .edge-pattern-dotted { stroke-dasharray: 2 }
+        #mermaid-0 .marker { fill: #000000; stroke: #000000 }
+        #mermaid-0 .marker.cross { stroke: #000000 }
+        #mermaid-0 svg { font-family: "trebuchet ms", verdana,arial, sans-serif; font-size: 16px }
+        #mermaid-0 .entityBox { fill: #CDE498; stroke: #13540C }
+        #mermaid-0 .attributeBoxOdd { fill: #FFFFFF; stroke: #13540C }
+        #mermaid-0 .attributeBoxEven { fill: #F2F2F2; stroke: #13540C }
+        #mermaid-0 .relationshipLabelBox { 
+            fill: hsl(78.1578947368, 58.4615384615%, 84.5098039216%);
+            opacity: 0.7;
+            background-color: hsl(78.1578947368, 58.4615384615%, 84.5098039216%) 
+        }
+        #mermaid-0 .relationshipLabelBox rect { opacity: 0.5 }
+        #mermaid-0 .relationshipLine { stroke: #000000 }
+        #mermaid-0 .entityTitleText { text-anchor: middle; font-size: 18px; fill: #000000 }
+        #mermaid-0 :root { --mermaid-font-family: "trebuchet ms", verdana,arial, sans-serif }
     </style>
     <g/>
     <defs>
