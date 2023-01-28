@@ -11,8 +11,11 @@
 ![preview](./preview/Web/NLW-Setup.png)
 
 ## Projeto 💻
-Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Ignite. <br>
-(https://www.figma.com/file/zeRR5lW6wiCFV5b8OK9HVb/Habits-(i)-(Community)?t=NasLwTkifj35CFtz-6)
+Projeto desenvolvido durante a NLW Setup da Rocketseat na Trilha Ignite.
+
+## Layout 🔖
+Segue abaixo o layout deste projeto:
+- [Figma](https://www.figma.com/file/zeRR5lW6wiCFV5b8OK9HVb/Habits-(i)-(Community)?t=NasLwTkifj35CFtz-6)
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
