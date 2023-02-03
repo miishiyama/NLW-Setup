@@ -50,6 +50,7 @@ As tecnologias utilizadas neste projeto são:
 - CSS
 - TypeScript
 - JavaScript
+- DOM
 - Node
 - NPM
 - Fastify
