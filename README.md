@@ -3,9 +3,13 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/Mobile">Mobile</a>
+  <a href="./preview/Mobile">
+    Mobile
+  </a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Web">Web</a>
+  <a href="./preview/Web">
+    Web
+  </a>
 </p>
 
 ![preview](./preview/Web/NLW-Setup.png)
