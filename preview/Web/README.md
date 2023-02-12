@@ -1,8 +1,6 @@
 # NLW Setup
 
 ## Web
-
-### Home
 ![preview](./NLW-Setup.png)
 
 ### Criar Hábito
