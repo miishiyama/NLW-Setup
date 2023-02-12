@@ -1,8 +1,6 @@
 # NLW Setup
 
 ## Mobile
-
-### Home
 ![preview](./NLW-Setup-Mobile.jpg)
 
 ### Criar Hábito
