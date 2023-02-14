@@ -27,7 +27,7 @@ Siga esses passos para instalar o repositório na sua máquina:
 
 ### Server
 1. Rode `npm i` para instalar as dependências do projeto.
-2. Crie um arquivo `.env` em `NLW-Setup/server/prisma/.env` e adicione o seguinte código:
+2. Crie um arquivo `.env` em `NLW-Setup/server/prisma` e adicione o seguinte código:
 
 ```bash
 DATABASE_URL="file:./dev.db"
