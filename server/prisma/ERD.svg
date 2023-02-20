@@ -32,7 +32,6 @@
         #mermaid-0 .entityTitleText { text-anchor: middle; font-size: 18px; fill: #000000 }
         #mermaid-0 :root { --mermaid-font-family: "trebuchet ms", verdana,arial, sans-serif }
     </style>
-    <g/>
     <defs>
         <marker orient="auto" markerHeight="18" markerWidth="18" refY="9" refX="0" id="ONLY_ONE_START">
             <path d="M9,0 L9,18 M15,0 L15,18" fill="none" stroke="gray"/>
