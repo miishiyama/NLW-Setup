@@ -1,7 +1,7 @@
 <svg 
     aria-roledescription="er" 
     viewBox="0 0 472.051025390625 298" 
-    style="max-width: 472.051px; background-color: white;" 
+    style="max-width: 472.051px; background-color: white" 
     xmlns:xlink="http://www.w3.org/1999/xlink" 
     xmlns="http://www.w3.org/2000/svg" 
     width="100%" 
@@ -77,21 +77,21 @@
         </marker>
     </defs>
     <path 
-        style="stroke: gray; fill: none;" 
+        style="stroke: gray; fill: none" 
         marker-start="url(#ZERO_OR_MORE_START)" 
         marker-end="url(#ONLY_ONE_END)" 
         d="M81.146484375,88L81.146484375,96.33333333333333C81.146484375,104.66666666666667,81.146484375,121.33333333333333,85.5324492872807,138C89.91841419956141,154.66666666666666,98.69034402412281,171.33333333333334,103.0763089364035,179.66666666666666L107.4622738486842,188" 
         class="er relationshipLine"
     />
     <path 
-        style="stroke: gray; fill: none;" 
+        style="stroke: gray; fill: none" 
         marker-start="url(#ZERO_OR_MORE_START)" 
         marker-end="url(#ONLY_ONE_END)" 
         d="M361.80696941557386,77L367.8585567171611,87.16666666666667C373.91014401874844,97.33333333333333,386.013318621923,117.66666666666667,392.06490592351037,138C398.11649322509766,158.33333333333334,398.11649322509766,178.66666666666666,398.11649322509766,188.83333333333334L398.11649322509766,199" 
         class="er relationshipLine"
     />
     <path 
-        style="stroke: gray; fill: none;" 
+        style="stroke: gray; fill: none" 
         marker-start="url(#ZERO_OR_MORE_START)" 
         marker-end="url(#ONLY_ONE_END)" 
         d="M317.61499759129117,77L304.132452419826,87.16666666666667C290.64990724836076,97.33333333333333,263.6848169054304,117.66666666666667,240.94146101576348,136.16666666666666C218.1981051260965,154.66666666666666,199.676483689693,171.33333333333334,190.41567297149126,179.66666666666666L181.15486225328948,188" 
@@ -100,7 +100,7 @@
     <g transform="translate(62.2874755859375,188 )" id="entity-habits-2ecb4687-f709-4421-a94b-06232bb95a9c">
         <rect height="90" width="137.718017578125" y="0" x="0" class="er entityBox"/>
         <text 
-            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px;" 
+            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px" 
             transform="translate(68.8590087890625,12)" 
             y="0" 
             x="0" 
@@ -111,7 +111,7 @@
         </text>
         <rect height="22" width="54.095550537109375" y="24" x="0" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,35)" 
             y="0" 
             x="0" 
@@ -122,7 +122,7 @@
         </text>
         <rect height="22" width="60.934783935546875" y="24" x="54.095550537109375" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(59.095550537109375,35)" 
             y="0" 
             x="0" 
@@ -133,7 +133,7 @@
         </text>
         <rect height="22" width="22.68768310546875" y="24" x="115.03033447265625" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(120.03033447265625,35)" 
             y="0" 
             x="0" 
@@ -144,7 +144,7 @@
         </text>
         <rect height="22" width="54.095550537109375" y="46" x="0" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,57)" 
             y="0" 
             x="0" 
@@ -155,7 +155,7 @@
         </text>
         <rect height="22" width="60.934783935546875" y="46" x="54.095550537109375" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(59.095550537109375,57)" 
             y="0" 
             x="0" 
@@ -166,7 +166,7 @@
         </text>
         <rect height="22" width="22.68768310546875" y="46" x="115.03033447265625" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(120.03033447265625,57)" 
             y="0" 
             x="0" 
@@ -175,7 +175,7 @@
         />
         <rect height="22" width="54.095550537109375" y="68" x="0" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,79)" 
             y="0" 
             x="0" 
@@ -186,7 +186,7 @@
         </text>
         <rect height="22" width="60.934783935546875" y="68" x="54.095550537109375" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(59.095550537109375,79)" 
             y="0" 
             x="0" 
@@ -197,7 +197,7 @@
         </text>
         <rect height="22" width="22.68768310546875" y="68" x="115.03033447265625" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(120.03033447265625,79)" 
             y="0" 
             x="0" 
@@ -208,7 +208,7 @@
     <g transform="translate(20,20 )" id="entity-habitweekdays-ca7e0557-3044-4c75-b01f-6b426a46d142">
         <rect height="68" width="122.29296875" y="0" x="0" class="er entityBox"/>
         <text 
-            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px;" 
+            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px" 
             transform="translate(61.146484375,12)" 
             y="0" 
             x="0" 
@@ -219,7 +219,7 @@
         </text>
         <rect height="22" width="39.0484364827474" y="24" x="0" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,35)" 
             y="0" 
             x="0" 
@@ -230,7 +230,7 @@
         </text>
         <rect height="22" width="58.90446980794271" y="24" x="39.0484364827474" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(44.0484364827474,35)" 
             y="0" 
             x="0" 
@@ -241,7 +241,7 @@
         </text>
         <rect height="22" width="24.340062459309895" y="24" x="97.95290629069011" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(102.95290629069011,35)" 
             y="0" 
             x="0" 
@@ -252,7 +252,7 @@
         </text>
         <rect height="22" width="39.0484364827474" y="46" x="0" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,57)" 
             y="0" 
             x="0" 
@@ -263,7 +263,7 @@
         </text>
         <rect height="22" width="58.90446980794271" y="46" x="39.0484364827474" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(44.0484364827474,57)" 
             y="0" 
             x="0" 
@@ -274,7 +274,7 @@
         </text>
         <rect height="22" width="24.340062459309895" y="46" x="97.95290629069011" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(102.95290629069011,57)" 
             y="0" 
             x="0" 
@@ -285,7 +285,7 @@
     <g transform="translate(344.18196868896484,199 )" id="entity-days-64bac2c9-8c9e-4d0f-a33e-19ca4a3c195b">
         <rect height="68" width="107.86904907226562" y="0" x="0" class="er entityBox"/>
         <text 
-            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px;" 
+            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px" 
             transform="translate(53.93452453613281,12)" 
             y="0" 
             x="0" 
@@ -296,7 +296,7 @@
         </text>
         <rect height="22" width="54.095550537109375" y="24" x="0" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,35)" 
             y="0" 
             x="0" 
@@ -307,7 +307,7 @@
         </text>
         <rect height="22" width="31.0858154296875" y="24" x="54.095550537109375" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(59.095550537109375,35)" 
             y="0" 
             x="0" 
@@ -318,7 +318,7 @@
         </text>
         <rect height="22" width="22.68768310546875" y="24" x="85.18136596679688" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(90.18136596679688,35)" 
             y="0" 
             x="0" 
@@ -329,7 +329,7 @@
         </text>
         <rect height="22" width="54.095550537109375" y="46" x="0" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,57)" 
             y="0" 
             x="0" 
@@ -340,7 +340,7 @@
         </text>
         <rect height="22" width="31.0858154296875" y="46" x="54.095550537109375" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(59.095550537109375,57)" 
             y="0" 
             x="0" 
@@ -351,7 +351,7 @@
         </text>
         <rect height="22" width="22.68768310546875" y="46" x="85.18136596679688" class="er attributeBoxEven"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(90.18136596679688,57)" 
             y="0" 
             x="0" 
@@ -362,7 +362,7 @@
     <g transform="translate(298.11649322509766,31 )" id="entity-dayhabits-96cad5df-4a16-45f5-959e-0ac77664546a">
         <rect height="46" width="100" y="0" x="0" class="er entityBox"/>
         <text 
-            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px;" 
+            style="dominant-baseline: middle; text-anchor: middle; font-size: 12px" 
             transform="translate(50,12)" 
             y="0" 
             x="0" 
@@ -373,7 +373,7 @@
         </text>
         <rect height="22" width="44.39861551920573" y="24" x="0" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(5,35)" 
             y="0" 
             x="0" 
@@ -384,7 +384,7 @@
         </text>
         <rect height="22" width="25.911142985026043" y="24" x="44.39861551920573" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(49.39861551920573,35)" 
             y="0" 
             x="0" 
@@ -395,7 +395,7 @@
         </text>
         <rect height="22" width="29.69024149576823" y="24" x="70.30975850423177" class="er attributeBoxOdd"/>
         <text 
-            style="dominant-baseline: middle; font-size: 10.2px;" 
+            style="dominant-baseline: middle; font-size: 10.2px" 
             transform="translate(75.30975850423177,35)" 
             y="0" 
             x="0" 
@@ -406,15 +406,15 @@
         </text>
     </g>
     <rect height="14" width="27.96875" y="133.108642578125" x="72.1260757446289" class="er relationshipLabelBox"/>
-    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px;" y="140.108642578125" x="86.1104507446289" id="rel1" class="er relationshipLabel">
+    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px" y="140.108642578125" x="86.1104507446289" id="rel1" class="er relationshipLabel">
         habit
     </text>
     <rect height="14" width="19.990234375" y="127.78829956054688" x="381.0647277832031" class="er relationshipLabelBox"/>
-    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px;" y="134.78829956054688" x="391.0598449707031" id="rel2" class="er relationshipLabel">
+    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px" y="134.78829956054688" x="391.0598449707031" id="rel2" class="er relationshipLabel">
         day
     </text>
     <rect height="14" width="27.96875" y="123.60450744628906" x="233.85125732421875" class="er relationshipLabelBox"/>
-    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px;" y="130.60450744628906" x="247.83563232421875" id="rel3" class="er relationshipLabel">
+    <text style="text-anchor: middle; dominant-baseline: middle; font-size: 12px" y="130.60450744628906" x="247.83563232421875" id="rel3" class="er relationshipLabel">
         habit
     </text>
 </svg>
