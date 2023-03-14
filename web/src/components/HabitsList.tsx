@@ -43,7 +43,7 @@ export function HabitsList({ date, onCompletedChanged }: HabitsListProps) {
             completedHabits = [...habitsInfo!.completedHabits, habitId]
         }
         setHabitsInfo({
-            possibleHabits:habitsInfo!.possibleHabits,
+            possibleHabits: habitsInfo!.possibleHabits,
             completedHabits
         })
         onCompletedChanged(completedHabits.length)
